@@ -4,14 +4,14 @@ public class School {
 
 	public static void main(String[] args) {
 		
-		Persona p = new Persona();
+		Persona alumneGerman = new Persona();
 		
-		p.n = "Arturo";
-		p.c = "Candela";
-		p.cl = "1º DAM/DAW";
-		p.a = 2021;
+		alumneGerman.n = "Germán";
+		alumneGerman.c = "Juan";
+		alumneGerman.cl = "1º DAM-B";
+		alumneGerman.a = 2022;
 		
-		System.out.println(p.toString());
+		System.out.println(alumneGerman.toString());
 
 	}
 
