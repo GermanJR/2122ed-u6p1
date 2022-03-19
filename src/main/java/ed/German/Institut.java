@@ -1,6 +1,6 @@
 package ed.German;
 
-public class School {
+public class Institut {
 
 	private static final int ANY = 2022;
 	private static final String CICLE_FORMATIU = "1º DAM-B";
@@ -9,7 +9,7 @@ public class School {
 
 	public static void main(String[] args) {
 		
-		Persona alumneGerman = new Persona();
+		Alumne alumneGerman = new Alumne();
 		
 		alumneGerman.nom = NOM_ALUMNE;
 		alumneGerman.cognoms = COGNOMS_ALUMNE;

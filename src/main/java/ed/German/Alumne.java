@@ -1,6 +1,6 @@
 package ed.German;
 
-public class Persona {
+public class Alumne {
 	
 	
 	public String nom;
